@@ -1,9 +1,5 @@
 # GPU Computing: kNN and MLP Acceleration  
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/GPU_computing_logo.png" alt="GPU Logo" width="200"/>
-</p>
-
 ## Overview  
 This project investigates the impact of **GPU acceleration** on machine learning algorithms.  
 We focused on:  
