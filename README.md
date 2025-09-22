@@ -1,12 +1,5 @@
-# GPU Computing: kNN and MLP Acceleration  
+# GPU Computing: kNN and MLP Acceleration 
 
-![Python](https://img.shields.io/badge/python-3.10-blue.svg)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
-
-[![Open kNN in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/GPU-Computing/blob/main/5_knn.ipynb)  
-[![Open MLP in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/GPU-Computing/blob/main/5_mlp.ipynb)  
-
----
 
 ## Overview  
 This project investigates the impact of **GPU acceleration** on machine learning algorithms.  
