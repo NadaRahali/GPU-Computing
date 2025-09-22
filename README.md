@@ -67,7 +67,25 @@ Both models were implemented and tested on **CPU vs GPU** to measure runtime dif
 - GPU acceleration provides **significant speedups** for highly parallelizable methods like kNN.  
 - For small networks (MLP) and limited data, GPU benefits are minimal.  
 - Dataset imbalance and overlapping features limited accuracy more than compute power.  
-- Writing a **custom CUDA kernel** highlighted the importance of memory management and thread-level parallelism.  
+- Writing a **custom CUDA kernel** highlighted the importance of memory management and thread-level parallelism.
+
+---
+
+## Repository Structure  
+
+```bash
+GPU-Computing/
+│
+├── 5_knn.ipynb              # Implementation of kNN (CPU + GPU kernel)
+├── 5_mlp.ipynb              # Implementation of MLP (CPU + GPU with PyTorch)
+├── MLoGPU_data3_train.csv   # Dataset provided by the course
+├── 5.pdf                    # Project report
+├── MLoGPU_description.pdf   # Original project description
+│
+├── README.md                # Project documentation
+├── LICENSE                  # MIT License
+├── .gitignore               # Ignored files config
+└── .gitattributes           # Text file normalization
 
 ---
 
