@@ -84,7 +84,7 @@ GPU-Computing/
 ├── data/                    # Dataset
 │   └── MLoGPU_data3_train.csv
 │
-├── report/                  # Project report + description
+├── docs/                  # Project report + description
 │   ├── 5.pdf
 │   └── MLoGPU_description.pdf
 │
