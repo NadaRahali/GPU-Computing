@@ -77,11 +77,16 @@ Both models were implemented and tested on **CPU vs GPU** to measure runtime dif
 ```bash
 GPU-Computing/
 │
-├── 5_knn.ipynb              # Implementation of kNN (CPU + GPU kernel)
-├── 5_mlp.ipynb              # Implementation of MLP (CPU + GPU with PyTorch)
-├── MLoGPU_data3_train.csv   # Dataset provided by the course
-├── 5.pdf                    # Project report
-├── MLoGPU_description.pdf   # Original project description
+├── notebooks/               # Jupyter notebooks
+│   ├── 5_knn.ipynb
+│   └── 5_mlp.ipynb
+│
+├── data/                    # Dataset
+│   └── MLoGPU_data3_train.csv
+│
+├── report/                  # Project report + description
+│   ├── 5.pdf
+│   └── MLoGPU_description.pdf
 │
 ├── README.md                # Project documentation
 ├── LICENSE                  # MIT License
