@@ -73,7 +73,6 @@ Both models were implemented and tested on **CPU vs GPU** to measure runtime dif
 
 ## Repository Structure  
 
-```bash
 GPU-Computing/
 │
 ├── 5_knn.ipynb              # Implementation of kNN (CPU + GPU kernel)
