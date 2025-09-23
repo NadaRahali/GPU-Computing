@@ -96,15 +96,6 @@ GPU-Computing/
 
 ---
 
-## How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/GPU-Computing.git
-   cd GPU-Computing
-   ```
-
----
-
 ## Authors  
 This project was completed as part of **GPU Computing (LUT University)** by:  
 - **Nada Rahali** – MLP implementation, report writing  
